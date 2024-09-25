@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		859191422CA094590026B654 /* Task1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1.swift; sourceTree = "<group>"; };
+		859191432CA094F40026B654 /* Task2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2.swift; sourceTree = "<group>"; };
+		859191442CA096500026B654 /* Task3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.swift; sourceTree = "<group>"; };
+		859191452CA096710026B654 /* Task4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.swift; sourceTree = "<group>"; };
+		859191462CA0967C0026B654 /* Task5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.swift; sourceTree = "<group>"; };
+		859191472CA096840026B654 /* Task6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task6.swift; sourceTree = "<group>"; };
+		859191482CA0968B0026B654 /* Task7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task7.swift; sourceTree = "<group>"; };
+		859191492CA096930026B654 /* Task8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task8.swift; sourceTree = "<group>"; };
+		8591914A2CA0969A0026B654 /* Task9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task9.swift; sourceTree = "<group>"; };
+		8591914B2CA096A40026B654 /* Task10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task10.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8591913B2CA094370026B654 = {
+			isa = PBXGroup;
+			children = (
+				8591914B2CA096A40026B654 /* Task10.swift */,
+				8591914A2CA0969A0026B654 /* Task9.swift */,
+				859191492CA096930026B654 /* Task8.swift */,
+				859191482CA0968B0026B654 /* Task7.swift */,
+				859191472CA096840026B654 /* Task6.swift */,
+				859191462CA0967C0026B654 /* Task5.swift */,
+				859191452CA096710026B654 /* Task4.swift */,
+				859191442CA096500026B654 /* Task3.swift */,
+				859191432CA094F40026B654 /* Task2.swift */,
+				859191422CA094590026B654 /* Task1.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		8591913C2CA094370026B654 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1540;
+			};
+			buildConfigurationList = 8591913F2CA094370026B654 /* Build configuration list for PBXProject "IOS_Homework3" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8591913B2CA094370026B654;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		859191402CA094370026B654 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		859191412CA094370026B654 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8591913F2CA094370026B654 /* Build configuration list for PBXProject "IOS_Homework3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				859191402CA094370026B654 /* Debug */,
+				859191412CA094370026B654 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8591913C2CA094370026B654 /* Project object */;
+}
