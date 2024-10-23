@@ -14,7 +14,7 @@ Screenshot:
 
 Video
 
-![Alt text](./Simulator%20Screen%20Recording%20-%20iPhone%2015%20-%202024-10-23%20at%2017.22.10.mp4?raw=true "Optional Title")
+![Alt text](./Simulator%20Screen%20Recording%20-%20iPhone%2015%20-%202024-10-23%20at%2017.22.10.mp4 "Optional Title")
 
 
 Setup:
