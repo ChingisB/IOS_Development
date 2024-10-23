@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MovieList
 //
-//  Created by Чингис Богдатов on 22.10.2024.
+//  Created by Чингис Богдатов on 23.10.2024.
 //
 
 import UIKit
