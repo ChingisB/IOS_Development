@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		85051E192CEFBCA600EA76BB /* DetailsItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85051E182CEFBCA600EA76BB /* DetailsItemTableViewCell.swift */; };
+		85051E1B2CEFBE0B00EA76BB /* BookItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85051E1A2CEFBE0B00EA76BB /* BookItem.swift */; };
 		8595950A2CE261A900551AB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 859595092CE261A900551AB9 /* AppDelegate.swift */; };
 		8595950C2CE261A900551AB9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8595950B2CE261A900551AB9 /* SceneDelegate.swift */; };
 		8595950E2CE261A900551AB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8595950D2CE261A900551AB9 /* ViewController.swift */; };
@@ -22,6 +24,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		85051E182CEFBCA600EA76BB /* DetailsItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsItemTableViewCell.swift; sourceTree = "<group>"; };
+		85051E1A2CEFBE0B00EA76BB /* BookItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookItem.swift; sourceTree = "<group>"; };
 		859595062CE261A900551AB9 /* TabBarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		859595092CE261A900551AB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8595950B2CE261A900551AB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				859595242CE2621100551AB9 /* BooksViewController.swift */,
+				85051E1A2CEFBE0B00EA76BB /* BookItem.swift */,
 			);
 			path = Books;
 			sourceTree = "<group>";
@@ -121,6 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				8595952C2CE263AA00551AB9 /* BaseListViewController.swift */,
+				85051E182CEFBCA600EA76BB /* DetailsItemTableViewCell.swift */,
 			);
 			path = BaseListViewController;
 			sourceTree = "<group>";
@@ -199,7 +205,9 @@
 				8595950E2CE261A900551AB9 /* ViewController.swift in Sources */,
 				8595952D2CE263AA00551AB9 /* BaseListViewController.swift in Sources */,
 				8595952A2CE262B300551AB9 /* DetailsItem.swift in Sources */,
+				85051E192CEFBCA600EA76BB /* DetailsItemTableViewCell.swift in Sources */,
 				859595202CE261E500551AB9 /* MusicViewController.swift in Sources */,
+				85051E1B2CEFBE0B00EA76BB /* BookItem.swift in Sources */,
 				8595950A2CE261A900551AB9 /* AppDelegate.swift in Sources */,
 				8595951E2CE261BE00551AB9 /* FilmsViewController.swift in Sources */,
 				859595282CE262A200551AB9 /* DetailsViewController.swift in Sources */,

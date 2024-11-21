@@ -7,4 +7,9 @@
 
 import Foundation
 
-
+class BooksViewController: BaseListViewController{
+    
+    override func getItems() -> [any DetailsItem] {
+        return getBooks()
+    }
+}
